@@ -1,0 +1,30 @@
+h3 {
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  font-size: 48px;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+.timerButton {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  width: 10em;
+  height: 3em;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+button:hover{
+  color: gold;
+}
+
+
+
